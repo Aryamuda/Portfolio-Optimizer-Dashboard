@@ -68,3 +68,8 @@ All key parameters can be easily modified in the application's sidebar:
 To run the app locally after installing dependencies:
 ```bash
 streamlit run app.py
+```
+
+### Disclaimer
+
+This project is for educational and research purposes only. The information and code provided are not financial advice. Trading financial markets involves significant risk, and past performance is not indicative of future results. Always conduct your own research and consult with a qualified financial advisor before making any investment decisions.
