@@ -1,8 +1,6 @@
-streamlit
-yfinance
-pandas
-numpy
-plotly
-PyPortfolioOpt
-cvxpy
-scipy
+streamlit>=1.32.0
+yfinance>=0.2.36
+pandas>=1.5.3
+numpy>=1.24.3
+plotly>=5.21.0
+PyPortfolioOpt>=1.5.5
